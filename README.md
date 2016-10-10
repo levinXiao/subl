@@ -1,21 +1,24 @@
-# subl 
+# subl
 
-* only work in macOS
+make sure you have already install Sublime Text 3 on you Mac
 
-move to ```/usr/local/bin/```
+clone it and put the file ```subl.sh``` to ```/usr/local/bin/```
 
 run ```sudo chmod +x /usr/local/bin/subl```
 
-open *Terminal*
+after all that you can use like this
 
 ```
-#open Desktop
-subl ~/Desktop
+$ cd your/code/directory
+$ subl .
+or
+$ subl file.txt
 ```
 
-or 
+enjoy the magic 
 
-```
-#open current folder
-subl .
-```
+contact me if you have any question 
+
+
+china:xiaoamani@qq.com  
+gmail:xiaoyulevin@gmail.com
